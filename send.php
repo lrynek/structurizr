@@ -2,7 +2,6 @@
 
 require_once 'vendor/autoload.php';
 
-use Assert\Assertion;
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
 use StructurizrPHP\Client\Client;
